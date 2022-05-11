@@ -1,0 +1,79 @@
+[
+  {
+    "productId": "1",
+    "product": "Dell 5401",
+    "quantity": "12",
+    "createdDate": "2020-05-20T13:12:12",
+    "lastModifiedDate": "2020-06-30T12:12:12"
+  },
+  {
+    "productId": "2",
+    "product": "Dell U2413",
+    "quantity": "15",
+    "createdDate": "2020-05-20T13:12:12",
+    "lastModifiedDate": "2020-06-30T13:12:12"
+  },
+  {
+    "productId": "3",
+    "product": "Samsung",
+    "quantity": "9",
+    "createdDate": "2020-06-30T13:12:12",
+    "lastModifiedDate": "2020-07-15T13:12:12"
+  },
+  {
+    "productId": "9",
+    "product": "Dell 5401",
+    "quantity": "15",
+    "createdDate": "2021-01-15T13:12:12",
+    "lastModifiedDate": "2022-01-15T13:12:12"
+  },
+  {
+    "productId": "5",
+    "product": "Asus ROG",
+    "quantity": "22",
+    "createdDate": "2010-01-15T13:12:12",
+    "lastModifiedDate": "2020-01-15T13:12:12"
+  },
+  {
+    "productId": "11",
+    "product": "Toshiba LT-500EQ",
+    "quantity": "9",
+    "createdDate": "2020-03-15T13:12:12",
+    "lastModifiedDate": "2022-01-22T13:12:12"
+  },
+  {
+    "productId": "4",
+    "product": "Toshiba satellite",
+    "quantity": "3",
+    "createdDate": "2020-01-23T13:12:12",
+    "lastModifiedDate": "2021-06-01T13:12:12"
+  },
+  {
+    "productId": "10",
+    "product": "Dell 9900",
+    "quantity": "5",
+    "createdDate": "2021-03-03T13:12:43",
+    "lastModifiedDate": "2021-09-03T13:45:12"
+  },
+  {
+    "productId": "7",
+    "product": "Dell 5401",
+    "quantity": "7",
+    "createdDate": "2020-01-01T13:23:12",
+    "lastModifiedDate": "2022-01-01T13:35:42"
+  },
+  {
+    "productId": "8",
+    "product": "ASUS 2513",
+    "quantity": "3",
+    "createdDate": "2020-06-01T13:12:12",
+    "lastModifiedDate": "2021-09-09T18:55:12"
+  },
+  {
+    "productId": "6",
+    "product": "Dell 5403",
+    "quantity": "1",
+    "createdDate": "2020-07-07T13:12:12",
+    "lastModifiedDate": "2021-06-01T09:33:12"
+  }
+]
